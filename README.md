@@ -13,4 +13,4 @@ O objetivo deste repositório é:
 
 ## 🚀 Como Executar
 1. Clone o repositório: <br>
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/mayvoinarski/numero-secreto.git
